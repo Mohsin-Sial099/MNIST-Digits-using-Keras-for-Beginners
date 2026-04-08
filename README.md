@@ -58,3 +58,6 @@ The MNIST dataset is a benchmark dataset widely used in the machine learning com
 ---
 
 Feel free to explore, modify, and expand upon this project to deepen your understanding of neural networks and image classification.
+
+
+Auto update via n8n: 1775637917
